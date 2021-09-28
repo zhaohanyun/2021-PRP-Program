@@ -1,0 +1,3 @@
+/home/zhaohanyun/Desktop/git_cv/compress_test/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/zhaohanyun/Desktop/git_cv/compress_test/cmake-build-debug/CMakeFiles/compress_test.dir
+/home/zhaohanyun/Desktop/git_cv/compress_test/cmake-build-debug/CMakeFiles/edit_cache.dir

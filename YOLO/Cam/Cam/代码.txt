@@ -1,0 +1,9 @@
+xvid_encraw -type 2 -i Cam.avi -w 960 -h 720 -size 4784 -avi Cam20.avi
+xvid_encraw -type 2 -i Cam.avi -w 960 -h 720 -size 7177 -avi Cam30.avi
+xvid_encraw -type 2 -i Cam.avi -w 960 -h 720 -size 9569 -avi Cam40.avi
+xvid_encraw -type 2 -i Cam.avi -w 960 -h 720 -size 11961 -avi Cam50.avi
+xvid_encraw -type 2 -i Cam.avi -w 960 -h 720 -size 14353 -avi Cam60.avi
+xvid_encraw -type 2 -i Cam.avi -w 960 -h 720 -size 16745 -avi Cam70.avi
+xvid_encraw -type 2 -i Cam.avi -w 960 -h 720 -size 19138 -avi Cam80.avi
+xvid_encraw -type 2 -i Cam.avi -w 960 -h 720 -size 21529 -avi Cam90.avi
+xvid_encraw -type 2 -i Cam.avi -w 960 -h 720 -size 21500 -avi Camfuck.avi

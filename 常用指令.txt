@@ -1,0 +1,40 @@
+ pscp -r Users/Administrator/Desktop/2021PRP/flow_test2 zhaohanyun@192.168.1.101:\Desktop\flow_test
+
+
+//安装cmake
+cd ~/Download
+wget https://cmake.org/files/v3.13/cmake-3.13.0-Linux-x86_64.tar.gz
+tar -xzvf cmake-3.13.0-Linux-x86_64.tar.gz
+
+# 解压出来的包，将其放在 /opt 目录下，其他目录也可以，主要别以后不小心删了
+sudo mv cmake-3.13.0-Linux-x86_64 /opt/cmake-3.13.0
+
+# 建立软链接
+sudo ln -sf /opt/cmake-3.13.0/bin/*  /usr/bin/
+
+# 查看 cmake 版本
+cmake --version
+
+
+    find_package(jsoncpp CONFIG REQUIRED)
+    target_link_libraries(main PRIVATE jsoncpp_object jsoncpp_static)
+
+
+
+crtl F 搜索
+ctrl shift F整个工程搜索
+ctrl R替换
+ctrl .找点
+
+
+添加远程仓库：git remote add origin 仓库地址
+（origin只是一个名字，对远程仓库的一个名字，习惯上用origin）
+
+git push -u origin master
+
+git init 新建仓库
+git branch name 新建分支
+git checkout name 切换分支
+git status 查看分支情况
+git add xxx.c 将文件加入分支
+git push origin <local_branch_name>:<remote_branch_name>

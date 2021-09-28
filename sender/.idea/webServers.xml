@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="401d58a2-bc0a-4792-8ddc-90bd588f12e5" name="server" url="http://202.120.38.38">
+        <fileTransfer rootFolder="/home/zhaohanyun" accessType="SFTP" host="202.120.38.38" port="50022" sshConfigId="be72c01c-9b01-465f-8601-066b06061d08" sshConfig="zhaohanyun@202.120.38.38:50022 agent" authAgent="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="3362ee23-37fa-4bd4-966b-b64ca865ffcb" name="cvas">
+        <fileTransfer accessType="SFTP" host="202.120.38.38" port="50022" sshConfigId="bc8ade31-92f4-49e3-ae77-078408fee33d" sshConfig="zhaohanyun@202.120.38.38:50022 agent" authAgent="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

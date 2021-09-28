@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -g -shared -Wl,-soname,libcvas.so -o lib/libcvas.so CMakeFiles/cvas.dir/src/car_status.cpp.o CMakeFiles/cvas.dir/src/data.cpp.o 

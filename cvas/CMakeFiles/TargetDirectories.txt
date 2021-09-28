@@ -1,0 +1,4 @@
+/home/zhaohanyun/Desktop/git_cv/cvas/CMakeFiles/rebuild_cache.dir
+/home/zhaohanyun/Desktop/git_cv/cvas/CMakeFiles/edit_cache.dir
+/home/zhaohanyun/Desktop/git_cv/cvas/CMakeFiles/cvas.dir
+/home/zhaohanyun/Desktop/git_cv/cvas/CMakeFiles/run.dir

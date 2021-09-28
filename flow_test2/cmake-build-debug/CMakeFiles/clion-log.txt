@@ -1,0 +1,6 @@
+C:\Users\Administrator\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\182.4323.58\bin\cmake\win\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" C:\Users\Administrator\Desktop\2021PRP\flow_test2
+CMake Error at CMakeLists.txt:1 (cmake_minimum_required):
+  CMake 3.15 or higher is required.  You are running version 3.12.1
+
+
+-- Configuring incomplete, errors occurred!
